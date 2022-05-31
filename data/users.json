@@ -1,0 +1,56 @@
+[
+  {
+    "username": "Jay",
+    "totalSales": 99461.73,
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b81",
+    "avatar": "/assets/avatar-1.png"
+  },
+  {
+    "username": "Shelly",
+    "totalSales": 99461.73,
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b82",
+    "avatar": "/assets/avatar-2.png"
+  },
+  {
+    "username": "Minu",
+    "totalSales": 99461.73,
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b83",
+    "avatar": "/assets/avatar-3.png"
+  },
+  {
+    "username": "Mia",
+    "totalSales": 99461.73,
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b84",
+    "avatar": "/assets/avatar-4.png"
+  },
+  {
+    "username": "Vinny",
+    "totalSales": 99461.73,
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b85",
+    "avatar": "/assets/avatar-5.png"
+  },
+  {
+    "username": "Dom",
+    "totalSales": 99461.73,
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b86",
+    "avatar": "/assets/avatar-6.png"
+  },
+  {
+    "username": "June",
+    "totalSales": 99461.73,
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b87",
+    "avatar": "/assets/avatar-7.png"
+  },
+  {
+    "username": "Aria",
+    "totalSales": 99461.73,
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b88",
+    "avatar": "/assets/avatar-8.png"
+  },
+  {
+    "username": "dlwlrma",
+    "totalSales": 1909461.73,
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b69",
+    "avatar": "/assets/iu.png"
+  }
+]

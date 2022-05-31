@@ -1,0 +1,72 @@
+[
+  {
+    "name": "IU",
+    "cover": "https://p3.toutiaoimg.com/img/tos-cn-i-qvj2lq49k0/5636e645210544d4afb16b9d8e27e069~tplv-obj:1080:1350.image?from=post",
+    "avatar": "https://pbs.twimg.com/media/FNj0jDXVcAQKFoy?format=jpg&name=large",
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b69",
+    "symbol": "BACY",
+    "supply": 2160271,
+    "assetType": "ERC1155",
+    "totalSale": 1909461.73
+  },
+  {
+    "name": "Jay Jo",
+    "cover": "/assets/item-1.jpg",
+    "avatar": "/assets/avatar-2.png",
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b81",
+    "symbol": "BACY",
+    "supply": 2160271,
+    "assetType": "ERC721",
+    "totalSale": 5388
+  },
+  {
+    "name": "Shelly Scott",
+    "cover": "/assets/item-2.jpg",
+    "avatar": "/assets/avatar-3.png",
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b82",
+    "symbol": "BACY",
+    "supply": 2160271,
+    "assetType": "ERC721",
+    "totalSale": 5388
+  },
+  {
+    "name": "Minu",
+    "cover": "/assets/item-3.jpg",
+    "avatar": "/assets/avatar-4.png",
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b83",
+    "symbol": "BACY",
+    "supply": 2160271,
+    "assetType": "ERC1155",
+    "totalSale": 5388
+  },
+  {
+    "name": "Kim Mia",
+    "cover": "/assets/item-4.jpg",
+    "avatar": "/assets/avatar-5.png",
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b84",
+    "symbol": "BACY",
+    "supply": 2160271,
+    "assetType": "ERC1155",
+    "totalSale": 5388
+  },
+  {
+    "name": "Dom",
+    "cover": "/assets/item-5.jpg",
+    "avatar": "/assets/avatar-6.png",
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b85",
+    "symbol": "BACY",
+    "supply": 2160271,
+    "assetType": "ERC721",
+    "totalSale": 5388
+  },
+  {
+    "name": "Lee Ji Eun",
+    "cover": "/assets/art.png",
+    "avatar": "/assets/jieun.jpeg",
+    "address": "0x5fa78bc9ea3d5414feb505d6c1498547b9df1b69",
+    "symbol": "BACY",
+    "supply": 2160271,
+    "assetType": "ERC1155",
+    "totalSale": 1909461.73
+  }
+]
